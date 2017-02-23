@@ -1,0 +1,85 @@
+==20428== Memcheck, a memory error detector
+==20428== Copyright (C) 2002-2015, and GNU GPL'd, by Julian Seward et al.
+==20428== Using Valgrind-3.11.0 and LibVEX; rerun with -h for copyright info
+==20428== Command: /home/jyang/678/proj1/quash/quash
+==20428== 
+==20525== 
+==20525== HEAP SUMMARY:
+==20525==     in use at exit: 28 bytes in 3 blocks
+==20525==   total heap usage: 13 allocs, 10 frees, 1,071,774 bytes allocated
+==20525== 
+==20525== LEAK SUMMARY:
+==20525==    definitely lost: 0 bytes in 0 blocks
+==20525==    indirectly lost: 0 bytes in 0 blocks
+==20525==      possibly lost: 0 bytes in 0 blocks
+==20525==    still reachable: 28 bytes in 3 blocks
+==20525==         suppressed: 0 bytes in 0 blocks
+==20525== Reachable blocks (those to which a pointer was found) are not shown.
+==20525== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==20525== 
+==20525== For counts of detected and suppressed errors, rerun with: -v
+==20525== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+==20550== 
+==20550== HEAP SUMMARY:
+==20550==     in use at exit: 40 bytes in 3 blocks
+==20550==   total heap usage: 19 allocs, 16 frees, 2,117,630 bytes allocated
+==20550== 
+==20550== LEAK SUMMARY:
+==20550==    definitely lost: 0 bytes in 0 blocks
+==20550==    indirectly lost: 0 bytes in 0 blocks
+==20550==      possibly lost: 0 bytes in 0 blocks
+==20550==    still reachable: 40 bytes in 3 blocks
+==20550==         suppressed: 0 bytes in 0 blocks
+==20550== Reachable blocks (those to which a pointer was found) are not shown.
+==20550== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==20550== 
+==20550== For counts of detected and suppressed errors, rerun with: -v
+==20550== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+==20633== 
+==20633== HEAP SUMMARY:
+==20633==     in use at exit: 40 bytes in 3 blocks
+==20633==   total heap usage: 32 allocs, 29 frees, 1,080,430 bytes allocated
+==20633== 
+==20633== LEAK SUMMARY:
+==20633==    definitely lost: 0 bytes in 0 blocks
+==20633==    indirectly lost: 0 bytes in 0 blocks
+==20633==      possibly lost: 0 bytes in 0 blocks
+==20633==    still reachable: 40 bytes in 3 blocks
+==20633==         suppressed: 0 bytes in 0 blocks
+==20633== Reachable blocks (those to which a pointer was found) are not shown.
+==20633== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==20633== 
+==20633== For counts of detected and suppressed errors, rerun with: -v
+==20633== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+==20702== 
+==20702== HEAP SUMMARY:
+==20702==     in use at exit: 40 bytes in 3 blocks
+==20702==   total heap usage: 36 allocs, 33 frees, 2,126,262 bytes allocated
+==20702== 
+==20702== LEAK SUMMARY:
+==20702==    definitely lost: 0 bytes in 0 blocks
+==20702==    indirectly lost: 0 bytes in 0 blocks
+==20702==      possibly lost: 0 bytes in 0 blocks
+==20702==    still reachable: 40 bytes in 3 blocks
+==20702==         suppressed: 0 bytes in 0 blocks
+==20702== Reachable blocks (those to which a pointer was found) are not shown.
+==20702== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==20702== 
+==20702== For counts of detected and suppressed errors, rerun with: -v
+==20702== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+==20428== 
+==20428== HEAP SUMMARY:
+==20428==     in use at exit: 32 bytes in 2 blocks
+==20428==   total heap usage: 39 allocs, 37 frees, 1,079,038 bytes allocated
+==20428== 
+==20428== LEAK SUMMARY:
+==20428==    definitely lost: 0 bytes in 0 blocks
+==20428==    indirectly lost: 0 bytes in 0 blocks
+==20428==      possibly lost: 0 bytes in 0 blocks
+==20428==    still reachable: 32 bytes in 2 blocks
+==20428==         suppressed: 0 bytes in 0 blocks
+==20428== Reachable blocks (those to which a pointer was found) are not shown.
+==20428== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==20428== 
+==20428== For counts of detected and suppressed errors, rerun with: -v
+==20428== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
